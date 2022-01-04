@@ -44,7 +44,7 @@ $ zappa update dev
 
 
 ### To do
-- [ ]: Database Settings
+- [ ] Database Settings
 
 
 ### References
